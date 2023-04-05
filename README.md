@@ -6,8 +6,11 @@ Integrantes do Grupo:
 Turma ADS 5A
 
 Marcio Santos de Morais - RA 1905142 
+
 Eduardo Almeida dos Santos - RA 1901962 
+
 Lucas Sobral Silva - RA 2100569
+
 Carlos Alberto de Castro – RA 2101544 
 
 Tecnologias:
