@@ -1,7 +1,7 @@
 # Petsmania
-Projeto Software Product - Faculdade Impacta
+Sistema para agendamento de serviços de pet shop
 
-#Integrantes do Grupo:
+Integrantes do Grupo:
 
 
 Turma ADS 5A
@@ -15,13 +15,13 @@ Lucas Sobral Silva - RA 2100569
 Carlos Alberto de Castro – RA 2101544 
 
 
-#Tecnologias:
+Tecnologias:
 
 Python Django (SQLite)
 
 HTML5 
 
-#Lista de Requisitos:
+Lista de Requisitos:
 
 •	O sistema deve permitir que o usuário faça cadastro e login/logout
 
