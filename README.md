@@ -23,17 +23,17 @@ HTML5
 
 Lista de Requisitos:
 
-•	O sistema deve permitir que o usuário faça cadastro e login/logout
+• SS01 - O sistema deve permitir que o usuário faça cadastro e login/logout
 
-•	O sistema deve criar uma agenda para disponibilizar os serviços.
+•	SS02 - O sistema deve criar uma agenda para disponibilizar os serviços.
 
-•	O sistema deve permitir o usuário escolher um serviço no dia e horário.
+•	SS03 - O sistema deve permitir o usuário escolher um serviço no dia e horário.
 
-•	O sistema deve permitir o usuário cancelar ou alterar um serviço agendado.
+•	SS04 - O sistema deve permitir o usuário cancelar ou alterar um serviço agendado.
 
-•	O administrador do sistema deve ter um acesso especial (acesso admin).
+•	SS05 - O administrador do sistema deve ter um acesso especial (acesso admin).
 
-•	O acesso admin deve permitir administrar usuários, serviços pets e agendamentos. 
+•	SS06 - O acesso admin deve permitir administrar usuários, serviços pets e agendamentos. 
 
 
 Link do Projeto:
