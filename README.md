@@ -17,7 +17,11 @@ Carlos Alberto de Castro – RA 2101544
 
 Tecnologias:
 
-Python Django (SQLite)
+Python 
+
+Django 
+
+SQLite
 
 HTML5 
 
